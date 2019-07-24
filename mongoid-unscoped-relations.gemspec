@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'mongoid-unscoped-relations'
-  s.version     = '0.1.0'
-  s.date        = '2017-10-26'
+  s.version     = '0.2.0'
+  s.date        = '2019-07-24'
   s.summary     = 'Mongoid extension for unscoped relations'
   s.description = 'Extension to mongoid to define relationships which are fetched unscoped'
   s.authors     = ['Léo Unbekandt']
