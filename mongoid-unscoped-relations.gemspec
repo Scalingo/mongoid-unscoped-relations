@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
     'http://github.com/Scalingo/mongoid-unscoped-relations'
   s.license       = 'MIT'
   s.add_dependency 'mongoid', '~> 7'
-  s.add_dependency 'activesupport', '~> 5'
+  s.add_dependency 'activesupport', '>= 5', '< 7'
 end
