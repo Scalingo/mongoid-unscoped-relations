@@ -1,4 +1,6 @@
-# Unscoped Mongoid Relations gem
+# **[DEPRECATED]** Unscoped Mongoid Relations gem
+
+This gem is deprecated and will be deleted in the future.
 
 ## Install
 
